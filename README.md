@@ -6,3 +6,6 @@ Responsive Navigation Bar HTML CSS JAVASCRIPT
 
 ## CSS
 - remove all basic style
+
+## JS
+- create animations
