@@ -40,3 +40,14 @@ nav{
   font-weight: bold;
   font-size: 14px;
 }
+
+.burger{
+  display: none;
+}
+
+.burger div{
+  width: 25px;
+  height: 2px;
+  background-color: #fafafa;
+  margin: 5px;
+}

@@ -1,8 +1,8 @@
 # responsive-navigation-bar
 Responsive Navigation Bar HTML CSS JAVASCRIPT
 
-# HTML
+## HTML
 - create the structure in HTML
 
-# CSS
+## CSS
 - remove all basic style
